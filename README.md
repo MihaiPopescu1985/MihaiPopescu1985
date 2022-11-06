@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Mihai Popescu
+- 👀 I’m interested in writing software :)
+- 🌱 I’m currently learning azure devops.
+- 💞️ I’m looking to collaborate but not yet decided on which project. 
+- 📫 You can reach ... on github :)
