@@ -1,5 +1,3 @@
 - 👋 Hi, I’m Mihai Popescu
-- 👀 I’m interested in writing software :)
-- 🌱 I’m currently learning azure devops.
-- 💞️ I’m looking to collaborate but not yet decided on which project. 
-- 📫 You can reach ... on github :)
+- 🌱 I’m currently working on https://github.com/MihaiPopescu1985/wowotraining.com
+- 📫 You can reach me on github :)
